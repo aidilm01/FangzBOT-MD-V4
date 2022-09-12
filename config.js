@@ -13,6 +13,7 @@
 // • Rasel comel
 // • Xtreshe (Beban)
 // • Dll
+// • Dilzpx 
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -52,26 +53,26 @@ global.sdc = 'https://s.id/Fangzganz'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088215689772'
-global.povo = '088215689772'
-global.pgopay = '088215689772'
-global.ppulsa = '088215689772'
-global.ppulsa2 = '0895394988123'
-global.psaweria = 'https://saweria.co/FangzBot'
+global.pdana = '081380448281'
+global.povo = '081380448281'
+global.pgopay = '081380448281'
+global.ppulsa = '081380448281'
+global.ppulsa2 = '01310910985'
+global.psaweria = 'gada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
-global.nomorown = '6288215689772'
+global.nomorbot = '6285724331475'
+global.nomorown = '6281380448271'
 global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
 global.nameown = 'Fangz Ganz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288215689772'],
-  ['62895336282144'],
-  ['6288215689772'],
-  ['6288215689772', 'Fangz Ganz', true]
+  ['6281380448282'],
+  ['6281310910985'],
+  ['6285724331475'],
+  ['6281380448381', 'Fangz Ganz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
