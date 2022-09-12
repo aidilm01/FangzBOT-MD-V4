@@ -92,7 +92,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Fangzbotz2007/FangzBOT-MD
+$ git clone https://github.com/dilzpx/FangzBOT-MD-V4
 $ cd FangzBOT-MD-master
 $ npm i 
 ```
