@@ -1,4 +1,4 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
+// S C R I P T  O R I  B Y  @DILZPX🔭
 // M A D E  B Y  FANGZ🌱  
 // Credits, jangan dihapus atau diubah!
 
@@ -62,17 +62,15 @@ global.psaweria = 'gada'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285724331475'
-global.nomorown = '6281380448271'
-global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
-global.nameown = 'Fangz Ganz'
+global.nomorown = '6281380448281'
+global.namebot = ' 「 DILZPX BOT ⁩㊣ 」'
+global.nameown = 'DILZPX'
 
 
 /*============== STAFF ==============*/
-global.owner = [
-  ['6281380448282'],
-  ['6281310910985'],
-  ['6285724331475'],
-  ['6281380448381', 'Fangz Ganz', true]
+global.owner = []
+  ['6281380448281'],
+', 'DILZPX', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -119,8 +117,8 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
 global.wm = '                「 Fangz BOT あ⁩ 」' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ FangzBOT-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ DILZPX 01¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '⫹⫺ DILZPX 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By FANGZ'
